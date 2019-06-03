@@ -27,9 +27,4 @@ If one is able to identify these risky loan applicants, then such loans can be r
 
 In other words, the company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and risk assessment. 
 
-*This was a collaborative effort with the following contributors along with myself;
-
-1. Vijay Mullangi
-2. Srinivasu Ryali
-3. Janarthanan Senthurpandi
 
